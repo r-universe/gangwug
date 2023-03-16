@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MetaCycle"]
+	path = MetaCycle
+	url = https://github.com/gangwug/metacycle
+	shallow = true
+	registered = true
